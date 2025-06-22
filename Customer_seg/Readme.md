@@ -1,14 +1,14 @@
-# 🛍️ Customer Segmentation Analysis using K-Means Clustering
+#  Customer Segmentation Analysis using K-Means Clustering
 
-## 📌 Project Overview
+##  Project Overview
 This project performs customer segmentation analysis for an e-commerce company using unsupervised machine learning (K-Means). The goal is to segment customers into distinct groups based on behavior and spending patterns to improve marketing strategies.
 
-## 📁 Dataset
+##  Dataset
 - **Source**: [Kaggle - Customer Segmentation](https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation)
 - **Format**: CSV
 - **Features**: Age, Income, Spending Score, Gender, Recency, etc.
 
-## 🧠 Key Concepts
+##  Key Concepts
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Scaling
@@ -16,12 +16,12 @@ This project performs customer segmentation analysis for an e-commerce company u
 - Visualizations (2D & 3D)
 - Insights and Recommendations
 
-## 🔧 Technologies Used
+##  Technologies Used
 - Python (JupyterLab)
 - Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - Scikit-learn (K-Means, StandardScaler)
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 ```bash
